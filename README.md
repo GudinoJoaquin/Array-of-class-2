@@ -1,0 +1,1 @@
+# Array-of-class-2
